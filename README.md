@@ -11,4 +11,10 @@ data(especially from the different sequencing platforms and different assembly s
 * Step 2: Python go.1.py.Then,sh overall/qsub.sh and sh Submit/qsub.sh.Wait until jobs finish.
 * Step 3: Python go.2.py
 
+### Output(part)
+* 1.Overall contig N50 value:
+* 2.Bin quality bar plot.(Build with pyechart)
+* 3.Bin quality stack bar plot.(Build with pyechart)
+* 4.Bin completeness/contamination scatter plot.(Build with pyechart)
+* 5.Species upset plot.(Build with R)
 
