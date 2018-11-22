@@ -3,7 +3,8 @@ MAEP(Metagenomics Assebly Evaluation Pipeline)
 
 ### Abstract
 MAEP is a new version of LAEP and can be used to evaluate the assembly quality of metagenomics 
-data(especially from the different sequencing platforms and different assembly strategies).  <BR/><BR/>
+data(especially from the different sequencing platforms and different assembly strategies).By the
+way ,this pipeline can support multiple samples parallel evaluation.<BR/><BR/>
 **However,MAEP can only run on KMBGI's server.It will be updated to run on other servers soon after.**
 
 ### Manuals
@@ -12,7 +13,7 @@ data(especially from the different sequencing platforms and different assembly s
 * Step 3: Python go.2.py
 
 ### Output(part)
-* 1.Overall contig N50 value:
+* 1.Overall contig N50 value
 * 2.Bin quality bar plot.(Build with pyechart)
 * 3.Bin quality stack bar plot.(Build with pyechart)
 * 4.Bin completeness/contamination scatter plot.(Build with pyechart)
