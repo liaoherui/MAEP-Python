@@ -18,10 +18,30 @@ way ,this pipeline can support multiple samples parallel evaluation.<BR/><BR/>
 * Step 3: Python go.2.py
 
 ### Output(part)
-* 1.Overall contig N50 value
-* 2.Bin quality bar plot.(Build with pyechart)
-* 3.Bin quality stack bar plot.(Build with pyechart)
-* 4.Bin completeness/contamination scatter plot.(Build with pyechart)
-* 5.Species upset plot.(Build with R)
+1.Overall contig N50 value
+<p align="center">
+  <img src="img/1.png" alt="Overall N50 example"/>
+</p>
+
+2.Bin quality bar plot.(Build with pyechart)
+<p align="center">
+  <img src="img/2.png" alt="Bin quality bar example"/>
+</p>
+
+3.Bin quality stack bar plot.(Build with pyechart)
+<p align="center">
+  <img src="img/3.png" alt="Bin quality bar stack example"/>
+</p>
+
+4.Bin completeness/contamination scatter plot.(Build with pyechart)
+<p align="center">
+  <img src="img/4.png" alt="Scatter example"/>
+</p>
+
+5.Species upset plot.(Build with R)
+<p align="center">
+  <img src="img/5.png" alt="Species upset example"/>
+</p>
+
 **You can download the output_example dir to have a look at the output report.**
 
