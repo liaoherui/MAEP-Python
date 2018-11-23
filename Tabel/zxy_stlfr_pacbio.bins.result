@@ -1,0 +1,18 @@
+bins_name	completeness	contamination	tRNA_Num	5S_RNA	16S_RNA	23S_RNA	largest_species	species_num	largest_genus	genus_num	largest_phylum	phylum_num	N50	total_length	quality
+zxy_stlfr_pacbio.004	10.45	0.00	3	no	no	no	Bacteroides thetaiotaomicron(15.59)	31	Bacteroides(26.20)	22	Bacteroidetes(38.14)	3	1702	2141500	Low
+zxy_stlfr_pacbio.002	66.94	39.88	19	no	no	no	Roseburia hominis(20.82)	97	Roseburia(20.82)	83	Firmicutes(23.79)	12	1703	3918694	Other
+zxy_stlfr_pacbio.005	37.35	18.14	49	no	no	no	Roseburia hominis(1.02)	69	Roseburia(1.02)	64	Firmicutes(1.89)	12	5106	5824646	Other
+zxy_stlfr_pacbio.003	68.74	38.54	8	no	no	no	Bacteroides thetaiotaomicron(14.08)	85	Bacteroides(21.62)	64	Bacteroidetes(25.94)	9	1681	4341784	Other
+zxy_stlfr_pacbio.015	55.96	24.03	17	no	no	no	Parabacteroides distasonis(2.10)	111	Bacteroides(4.29)	89	Bacteroidetes(8.35)	15	1300	2814257	Other
+zxy_stlfr_pacbio.017	68.41	39.92	20	no	no	no	Akkermansia muciniphila(2.45)	120	Akkermansia(2.45)	86	Firmicutes(5.79)	10	1231	3182780	Other
+zxy_stlfr_pacbio.016	70.43	42.18	16	no	no	no	Alistipes shahii(3.24)	194	Alistipes(5.96)	155	Proteobacteria(10.79)	15	1291	2833586	Other
+zxy_stlfr_pacbio.006	73.45	67.35	13	no	no	no	Alistipes shahii(15.19)	247	Alistipes(18.81)	183	Bacteroidetes(19.97)	14	1457	4779179	Other
+zxy_stlfr_pacbio.007	39.94	5.97	12	no	no	no	Odoribacter splanchnicus(48.85)	26	Odoribacter(48.85)	21	Bacteroidetes(58.62)	4	1610	2086034	Low
+zxy_stlfr_pacbio.013	81.96	44.70	38	yes	no	no	Akkermansia muciniphila(16.25)	167	Akkermansia(16.25)	140	Verrucomicrobia(16.25)	16	1292	3611391	Other
+zxy_stlfr_pacbio.001	66.40	54.78	16	no	no	no	Bacteroides thetaiotaomicron(9.44)	130	Bacteroides(18.79)	105	Bacteroidetes(20.64)	12	1744	6138137	Other
+zxy_stlfr_pacbio.011	58.67	19.50	13	no	no	no	Alistipes finegoldii(10.82)	114	Alistipes(18.44)	98	Bacteroidetes(20.56)	16	1368	2306357	Other
+zxy_stlfr_pacbio.010	60.29	25.60	15	no	no	yes	Bacteroides thetaiotaomicron(4.85)	124	Bacteroides(9.76)	99	Bacteroidetes(13.00)	13	1325	4633560	Other
+zxy_stlfr_pacbio.008	77.91	87.69	22	no	no	yes	Parabacteroides distasonis(13.81)	145	Parabacteroides(13.81)	124	Bacteroidetes(29.44)	12	1499	7184970	Other
+zxy_stlfr_pacbio.009	30.90	4.68	16	no	no	no	Parabacteroides distasonis(13.96)	31	Parabacteroides(13.96)	24	Bacteroidetes(29.65)	4	1621	2329588	Low
+zxy_stlfr_pacbio.014	83.10	96.99	44	yes	no	no	[Eubacterium] eligens(4.80)	149	Eubacterium(4.83)	106	Firmicutes(8.96)	14	1328	7709844	Other
+zxy_stlfr_pacbio.012	52.01	18.42	12	no	no	no	[Eubacterium] eligens(1.99)	105	Bacteroides(2.73)	75	Firmicutes(6.71)	15	1316	3170967	Other

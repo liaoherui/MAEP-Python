@@ -1,0 +1,18 @@
+bins_name	completeness	contamination	tRNA_Num	5S_RNA	16S_RNA	23S_RNA	largest_species	species_num	largest_genus	genus_num	largest_phylum	phylum_num	N50	total_length	quality
+zxy_stlfr.005	29.12	3.26	7	no	no	no	Roseburia hominis(0.41)	53	Roseburia(0.41)	50	Firmicutes(1.01)	11	1604	4319592	Low
+zxy_stlfr.008	62.75	27.25	9	no	no	no	Parabacteroides distasonis(37.25)	48	Parabacteroides(37.25)	37	Bacteroidetes(48.69)	8	1448	3509499	Other
+zxy_stlfr.009	70.48	42.34	25	no	no	yes	Parabacteroides distasonis(1.89)	182	Alistipes(3.15)	153	Bacteroidetes(7.53)	17	1292	3843280	Other
+zxy_stlfr.006	58.79	24.17	23	no	no	no	Odoribacter splanchnicus(18.00)	58	Odoribacter(18.00)	42	Bacteroidetes(40.10)	5	1551	5117328	Other
+zxy_stlfr.007	70.46	42.49	10	no	no	no	Odoribacter splanchnicus(17.83)	91	Odoribacter(17.83)	77	Bacteroidetes(26.20)	8	1463	4263128	Other
+zxy_stlfr.017	58.48	20.52	24	no	no	no	Akkermansia muciniphila(4.90)	120	Akkermansia(4.90)	89	Proteobacteria(5.81)	14	1240	1829884	Other
+zxy_stlfr.016	59.03	32.69	20	yes	no	no	Akkermansia muciniphila(20.50)	121	Akkermansia(20.50)	102	Verrucomicrobia(20.50)	13	1300	2485268	Other
+zxy_stlfr.011	88.35	95.69	36	yes	no	no	[Eubacterium] eligens(4.92)	152	Bacteroides(6.61)	108	Firmicutes(9.35)	15	1337	8451502	Other
+zxy_stlfr.010	68.98	46.00	14	no	no	no	Alistipes finegoldii(11.47)	161	Alistipes(18.31)	131	Bacteroidetes(19.22)	16	1316	2501791	Other
+zxy_stlfr.013	55.61	17.52	9	no	no	no	Alistipes shahii(5.57)	117	Alistipes(9.76)	99	Bacteroidetes(12.31)	13	1355	2116968	Other
+zxy_stlfr.001	68.15	51.63	14	no	no	no	Bacteroides thetaiotaomicron(9.10)	127	Bacteroides(18.20)	102	Bacteroidetes(19.98)	13	1638	5741417	Other
+zxy_stlfr.002	65.62	37.83	15	no	no	no	Roseburia hominis(20.01)	95	Roseburia(20.01)	82	Firmicutes(23.12)	13	1650	3958678	Other
+zxy_stlfr.015	70.09	46.44	17	no	no	no	Akkermansia muciniphila(1.81)	113	Akkermansia(1.81)	79	Firmicutes(6.80)	10	1264	3375580	Other
+zxy_stlfr.003	67.38	35.17	9	no	no	no	Bacteroides thetaiotaomicron(14.71)	81	Bacteroides(21.89)	60	Bacteroidetes(25.82)	9	1648	4077235	Other
+zxy_stlfr.014	58.86	22.96	20	no	no	no	Bacteroides thetaiotaomicron(2.89)	114	Bacteroides(6.67)	89	Bacteroidetes(10.49)	14	1302	3340727	Other
+zxy_stlfr.012	58.67	19.94	18	no	no	no	[Eubacterium] eligens(2.19)	103	Bacteroides(2.90)	73	Firmicutes(6.52)	15	1311	3407201	Other
+zxy_stlfr.004	74.09	64.36	9	no	no	no	Alistipes shahii(17.08)	229	Alistipes(19.30)	170	Bacteroidetes(20.38)	14	1473	4140185	Other

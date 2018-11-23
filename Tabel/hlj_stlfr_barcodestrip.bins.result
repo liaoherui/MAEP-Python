@@ -1,0 +1,5 @@
+bins_name	completeness	contamination	tRNA_Num	5S_RNA	16S_RNA	23S_RNA	largest_species	species_num	largest_genus	genus_num	largest_phylum	phylum_num	N50	total_length	quality
+hlj_stlfr.003	70.11	39.77	12	no	no	no	Alistipes finegoldii(1.76)	193	Alistipes(3.22)	159	Proteobacteria(7.39)	15	1199	3244938	Other
+hlj_stlfr.002	49.40	30.31	12	no	no	yes	Roseburia hominis(3.57)	118	Roseburia(3.57)	100	Firmicutes(9.24)	14	1177	2557789	Other
+hlj_stlfr.001	51.83	22.54	10	no	no	no	Bacteroides thetaiotaomicron(10.49)	100	Bacteroides(13.84)	80	Bacteroidetes(18.52)	10	1165	3185108	Other
+hlj_stlfr.004	72.83	72.65	26	no	no	no	Streptococcus thermophilus(2.11)	194	Streptococcus(2.28)	150	Firmicutes(8.49)	16	1184	7480476	Other
