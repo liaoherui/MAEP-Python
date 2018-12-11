@@ -3,6 +3,7 @@ MAEP(Metagenomics Assebly Evaluation Pipeline)
 
 ### Author: Liao Herui
 ### E-mail: liaoherui@mail.dlut.edu.cn
+### Version: V2.0
 
 --------------
 
@@ -17,7 +18,10 @@ way ,this pipeline can support multiple samples parallel evaluation.<BR/><BR/>
 * Step 2: Python go.1.py.Then,sh overall/qsub.sh and sh Submit/qsub.sh.Wait until jobs finish.
 * Step 3: Python go.2.py
 
-### Output(part)
+### Output
+There are two parts of output.One is report(.html),another is literature figure.
+
+Report Part:<BR/><BR/>
 1.Overall contig N50 value
 <p align="center">
   <img src="img/1.png" alt="Overall N50 example"/>
@@ -38,10 +42,27 @@ way ,this pipeline can support multiple samples parallel evaluation.<BR/><BR/>
   <img src="img/4.png" alt="Scatter example"/>
 </p>
 
-5.Species upset plot.(Build with R)
+5.Genus/Species upset plot.(Build with R)
 <p align="center">
   <img src="img/5.png" alt="Species upset example"/>
 </p>
 
-**You can download the output_example dir to have a look at the output report.**
+6.Bins N50 and coverage.(Overall and each bin)
+
+<p align="center">
+  <img src="img/6.1.png" alt="Overall Bins N50 and coverage"/>
+</p>
+<p align="center">
+  <img src="img/6.2.png" alt="Bins N50 and coverage"/>
+</p>
+
+7.Genus/Species abundance stack bar.
+<p align="center">
+  <img src="img/7.1.png" alt="Genus abundance example"/>
+</p>
+<p align="center">
+  <img src="img/7.2.png" alt="Species abundance example"/>
+</p>
+
+**You can download the output_example dir to have a look at the output report and figure.**
 
