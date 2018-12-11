@@ -64,5 +64,5 @@ Report Part:<BR/><BR/>
   <img src="img/7.2.png" alt="Species abundance example"/>
 </p>
 
-**You can download the  new_output_example dir to have a look at the output report and figure.**
+**For more details,you can download the  new_output_example dir to have a look at the output report and figure.**
 
