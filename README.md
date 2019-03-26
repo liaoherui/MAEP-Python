@@ -58,53 +58,8 @@ This option refers to the input list.The list **(tab seperated)** is composed of
  
 
 
-
 ### Output
 There are two parts of output.One is report(.html),another is literature figure.<BR/>
-The results are stored in 
+The results can be downloaded in  Report folder(.html) or Figure  folder(literature figure) 
 
-Report Part:<BR/><BR/>
-1.Overall contig N50 value
-<p align="center">
-  <img src="img/1.png" alt="Overall N50 example"/>
-</p>
-
-2.Bin quality bar plot.(Build with pyechart)
-<p align="center">
-  <img src="img/2.png" alt="Bin quality bar example"/>
-</p>
-
-3.Bin quality stack bar plot.(Build with pyechart)
-<p align="center">
-  <img src="img/3.png" alt="Bin quality bar stack example"/>
-</p>
-
-4.Bin completeness/contamination scatter plot.(Build with pyechart)
-<p align="center">
-  <img src="img/4.png" alt="Scatter example"/>
-</p>
-
-5.Genus/Species upset plot.(Build with R)
-<p align="center">
-  <img src="img/5.png" alt="Species upset example"/>
-</p>
-
-6.Bins N50 and coverage.(Overall and each bin)
-
-<p align="center">
-  <img src="img/6.1.png" alt="Overall Bins N50 and coverage"/>
-</p>
-<p align="center">
-  <img src="img/6.2.png" alt="Bins N50 and coverage"/>
-</p>
-
-7.Genus/Species abundance stack bar.
-<p align="center">
-  <img src="img/7.1.png" alt="Genus abundance example"/>
-</p>
-<p align="center">
-  <img src="img/7.2.png" alt="Species abundance example"/>
-</p>
-
-**For more details,you can download the  new_output_example dir to have a look at the output report and figure.**
 
