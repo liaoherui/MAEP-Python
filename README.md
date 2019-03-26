@@ -1,4 +1,4 @@
-MAEP(Metagenomics Assebly Evaluation Pipeline)
+MAEP(Metagenomics Assembly Evaluation Pipeline)
 ==============
 
 
