@@ -25,8 +25,22 @@ The program is broken down into several module:<BR/><BR/>
 
 ### Manuals
 * Quick Start:<BR/>
-  `python Lazy_MAEP.py -l list/contig_raw_reads.list -s list/sample.list -o zxy_p4_test `
-  
+  `python Lazy_MAEP.py -l list/contig_raw_reads.list -s list/sample.list -o zxy_p4_test `<BR/>
+  By the way,you can put this command into a bash script and use it.
+* Option Illustration:<BR/>
+ **-l** : <BR/>
+This option refers to the input list.The list **(tab seperated)** is composed of 4 parts.<BR/>
+**column 1: sample name**<BR/>
+**column 2: prefix (Usuallly refer to different sequencing platforms or assembly strtegies)**<BR/>
+**column 3: assembly result dir(.fasta file with multi contigs/scaffolds)**<BR/>
+**column 4 and column 5: PE raw reads dir**<BR/>
+**Example list:(One sample ,two sequencing platforms)** <BR/>
+ ```
+ zxy Athena_10X  /mnt/10X_athena.fasta /mnt/osf1/zxy_10X_R1.fq.gz  /mnt/osf1/zxy_10X_R2.fq.gz 
+ zxy Illumina /mnt/pacbio_flye.fasta  /mnt/osf1/zxy_1.fq.gz /mnt/osf1/zxy_2.fq.gz
+ ```
+ 
+ 
 * Step 1: Finish the MAEP.conf profile
 * Step 2: Python go.1.py.Then,sh overall/qsub.sh and sh Submit/qsub.sh.Wait until jobs finish.
 * Step 3: Python go.2.py
