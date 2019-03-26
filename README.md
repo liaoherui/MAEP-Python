@@ -24,7 +24,8 @@ The program is broken down into several module:<BR/><BR/>
 
 
 ### Manuals
-Quick Start:
+* Quick Start:<BR/>
+  `python Lazy_MAEP.py -l list/contig_raw_reads.list -s list/sample.list -o zxy_p4_test `
   
 * Step 1: Finish the MAEP.conf profile
 * Step 2: Python go.1.py.Then,sh overall/qsub.sh and sh Submit/qsub.sh.Wait until jobs finish.
