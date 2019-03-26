@@ -28,7 +28,8 @@ The program is broken down into several module:<BR/><BR/>
   `python Lazy_MAEP.py -l list/contig_raw_reads.list -s list/sample.list -o zxy_p4_test `<BR/>
   By the way,you can put this command into a bash script and use it.
 * Option Illustration:<BR/>
- **-l** : <BR/>
+
+**-l** : <BR/>
 This option refers to the input list.The list **(tab seperated)** is composed of 4 parts.<BR/>
 **column 1: sample name**<BR/>
 **column 2: prefix (Usuallly refer to different sequencing platforms or assembly strtegies)**<BR/>
@@ -49,14 +50,11 @@ This option refers to the input list.The list **(tab seperated)** is composed of
  zxy
  Sample2-Name
  ```
-,more samples condition is similar.
+,more samples condition is similar.<BR/>
   **-o** : <BR/>
   This option means output dir.
  
  
-* Step 1: Finish the MAEP.conf profile
-* Step 2: Python go.1.py.Then,sh overall/qsub.sh and sh Submit/qsub.sh.Wait until jobs finish.
-* Step 3: Python go.2.py
 
 
 
