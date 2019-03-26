@@ -3,9 +3,10 @@ MAEP(Metagenomics Assebly Evaluation Pipeline)
 
 
 ### E-mail: liaoherui@mail.dlut.edu.cn
-### Version: V2.0
+### Version: V3.0
 
 --------------
+**This is not a production-ready software repository and is still under active development. Bugs and feature requests will not addressed. Please use with caution**
 
 ### Abstract
 MAEP is a new version of LAEP and can be used to evaluate the assembly quality of metagenomics 
