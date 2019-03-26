@@ -24,8 +24,8 @@ The program is broken down into several module:<BR/><BR/>
 
 
 ### Manuals
-
-
+Quick Start:
+  
 * Step 1: Finish the MAEP.conf profile
 * Step 2: Python go.1.py.Then,sh overall/qsub.sh and sh Submit/qsub.sh.Wait until jobs finish.
 * Step 3: Python go.2.py
