@@ -6,18 +6,29 @@ MAEP(Metagenomics Assebly Evaluation Pipeline)
 ### Version: V3.0
 
 --------------
-**This is not a production-ready software repository and is still under active development. Bugs and feature requests will not addressed. Please use with caution**
+**This is not a production-ready software repository and is still under active development. Bugs and feature requests will not addressed. Please use with caution.MAEP can only run on KMBGI's server.It will be updated to run on other servers soon after**
 
 ### Abstract
 MAEP is a new version of LAEP and can be used to evaluate the assembly quality of metagenomics 
 data(especially from the different sequencing platforms and different assembly strategies).By the
 way ,this pipeline can support multiple samples parallel evaluation.<BR/><BR/>
-**However,MAEP can only run on KMBGI's server.It will be updated to run on other servers soon after.**
+
+The program is broken down into several module:<BR/><BR/>
+
+* Module 1: Assess contig/scaffold quality with **Quast v5.0.0**
+
+
 
 ### Manuals
+
+
 * Step 1: Finish the MAEP.conf profile
 * Step 2: Python go.1.py.Then,sh overall/qsub.sh and sh Submit/qsub.sh.Wait until jobs finish.
 * Step 3: Python go.2.py
+
+
+
+
 
 ### Output
 There are two parts of output.One is report(.html),another is literature figure.
