@@ -41,16 +41,17 @@ This option refers to the input list.The list **(tab seperated)** is composed of
  zxy Illumina /mnt/pacbio_flye.fasta  /mnt/osf1/zxy_1.fq.gz /mnt/osf1/zxy_2.fq.gz
  ```
   **-s** : <BR/>
- This option refers to the sample name list.For example,if your input data only refers to one sample(zxy,for example), then your sample list should be:<BR/>
+ This option refers to the sample name list.For example,if your input data only refers to one sample(suppose the sample name is 'zxy'), then your sample list should be:<BR/>
  ```
  zxy
  ```
- Or, you have two samples,then,your list should be:<BR/>
+ Or, you have two samples(zxy and hlj),then,your list should be:<BR/>
  ```
  zxy
- Sample2-Name
+ hlj
  ```
-,more samples condition is similar.<BR/>
+,more samples' condition is similar.<BR/><BR/>
+
   **-o** : <BR/>
   This option means output dir.
  
@@ -58,10 +59,9 @@ This option refers to the input list.The list **(tab seperated)** is composed of
 
 
 
-
-
 ### Output
-There are two parts of output.One is report(.html),another is literature figure.
+There are two parts of output.One is report(.html),another is literature figure.<BR/>
+The results are stored in 
 
 Report Part:<BR/><BR/>
 1.Overall contig N50 value
