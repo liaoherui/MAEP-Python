@@ -1,7 +1,7 @@
 MAEP(Metagenomics Assebly Evaluation Pipeline)
 ==============
 
-### Author: Liao Herui
+
 ### E-mail: liaoherui@mail.dlut.edu.cn
 ### Version: V2.0
 
