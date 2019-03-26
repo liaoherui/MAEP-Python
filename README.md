@@ -35,12 +35,10 @@ This option refers to the input list.The list **(tab seperated)** is composed of
 **column 3: assembly result dir(.fasta file with multi contigs/scaffolds)**<BR/>
 **column 4 and column 5: PE raw reads dir**<BR/>
 **Example List:(One sample ,two sequencing platforms)** <BR/>
-
  ```
  zxy Athena_10X  /mnt/10X_athena.fasta /mnt/osf1/zxy_10X_R1.fq.gz  /mnt/osf1/zxy_10X_R2.fq.gz 
  zxy Illumina /mnt/pacbio_flye.fasta  /mnt/osf1/zxy_1.fq.gz /mnt/osf1/zxy_2.fq.gz
  ```
-
   **-s** : <BR/>
  This option refers to the sample name list.For example,if your input data only refers to one sample(zxy,for example), then your sample list should be:<BR/>
  ```
@@ -52,6 +50,8 @@ This option refers to the input list.The list **(tab seperated)** is composed of
  Sample2-Name
  ```
 ,more samples condition is similar.
+  **-o** : <BR/>
+  This option means output dir.
  
  
 * Step 1: Finish the MAEP.conf profile
