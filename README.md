@@ -41,18 +41,16 @@ This option refers to the input list.The list **(tab seperated)** is composed of
  zxy Illumina /mnt/pacbio_flye.fasta  /mnt/osf1/zxy_1.fq.gz /mnt/osf1/zxy_2.fq.gz
  ```
 
- **-s** : <BR/>
+  **-s** : <BR/>
  This option refers to the sample name list.For example,if your input data only refers to one sample(zxy,for example), then your sample list should be:<BR/>
  ```
  zxy
  ```
- <BR/>
  Or, you have two samples,then,your list should be:<BR/>
  ```
  zxy
  Sample2-Name
  ```
- <BR/>
 ,more samples condition is similar.
  
  
